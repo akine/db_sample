@@ -1,2 +1,2 @@
-class Author < ApplicationRecord
+class Author < SubBase
 end
